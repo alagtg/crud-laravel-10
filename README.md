@@ -12,3 +12,7 @@ https://www.youtube.com/playlist?list=PLUet4sSSbP2OGrGqkNvp9eiHrW6C8io2I
 
 
 ![crud1](https://github.com/alagtg/crud-laravel-10/assets/116687176/4f024273-8b05-4242-8b2f-8fe001dfad88)
+
+![mofefieretudiant](https://github.com/alagtg/crud-laravel-10/assets/116687176/5563d206-66be-495c-9d89-433f43055da7)
+
+![Uploading ajoutetudiant.PNG…]()
