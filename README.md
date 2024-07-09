@@ -9,3 +9,6 @@ et ce lien pour github https://www.youtube.com/watch?v=WGdAK-ueMHY
 
 les etapes de projet sur youtube :
 https://www.youtube.com/playlist?list=PLUet4sSSbP2OGrGqkNvp9eiHrW6C8io2I
+
+
+![crud1](https://github.com/alagtg/crud-laravel-10/assets/116687176/4f024273-8b05-4242-8b2f-8fe001dfad88)
